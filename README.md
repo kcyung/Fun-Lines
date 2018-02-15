@@ -11,3 +11,5 @@ Event handlers are used to allow the lines to be:
 6) Removal of all lines shorter than 75 pixels (via System.Predicate with compliant predicate function)
 7) Removal of all lines greater than 325 pixels (via System.Predicate with lambda expression)
 8) Ability to highlight all lines within ten pixel long of the trackbar value (via lambda expressions with extension methods)
+
+![fun lines](https://user-images.githubusercontent.com/21131519/36241411-5d7e80e8-11d3-11e8-87c6-701ca54746d0.png)
